@@ -19,4 +19,4 @@ PLAYING DANGER SNAKE :
     Quit : Escape
 
 RULE :
-    Nor to fast nor to slow to move, if not you lose
+    Nor to fast nor to slow to move, if not, you lose !
